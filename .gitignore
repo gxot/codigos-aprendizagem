@@ -1,0 +1,83 @@
+# === C# / .NET ===
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+*.dbmdl
+*.vspscc
+*.vssscc
+*.resharper
+.vscode/
+.vs/
+.idea/
+*.sln.iml
+artifacts/
+*.log
+*.tmp
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+env/
+venv/
+pip-wheel-metadata/
+*.sqlite3
+*.log
+*.db
+.cache/
+.ipynb_checkpoints/
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# Virtualenv
+*.env/
+*.venv/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+*.ipr
+*.iws
+target/
+out/
+.gradle/
+build/
+.settings/
+.project
+.classpath
+.idea/
+*.swp
+
+# === OS / Editor ===
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+*~
